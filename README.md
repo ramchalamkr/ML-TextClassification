@@ -14,5 +14,8 @@ and a few in the traditional python format. This project was part of a Kaggle Co
 ## Authors
 
 Ramchalam K R, McGillID : 260711189, EmailId : ramchalam.kinattinkararamakrishn@mail.mcgill.ca
+
 Charles C Onu, McGillID : 260663256, EmailId : charles.onu@mail.mcgill.ca
+
 Navin Mordani, McGillID : 260744902, EmailId : navin.mordani@mail.mcgill.ca
+
